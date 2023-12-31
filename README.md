@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I m a Software Developing Student</h3>
+<h3 align="center">I m a Software Development Student</h3>
 
 <p align="left"> <a href="https://twitter.com/archsx99" target="blank"><img src="https://img.shields.io/twitter/follow/archsx99?logo=twitter&style=for-the-badge" alt="archsx99" /></a> </p>
 
